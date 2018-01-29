@@ -12,15 +12,3 @@ Performs a static analysis task (What are they? Define them? Do an analysis of M
  Generate ASTs, control flow graphs and data flow graphs. Perform queries on them.
  Moreover, 
 
-Example instances:
-Spencer is a tool that uses a curated dataset to perform heap analysis (dynamic analysis) on the dataset.
-RefDiff -> Source code analysis to detect refactorings. A model is built that that represents each high level source code entity, such as types, methods, and fields.
-
- 
-
-
-
-
-
-  
-
