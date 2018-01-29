@@ -1,0 +1,14 @@
+How to design API?
+
+Look at MSR papers. See most common static analysis tasks.
+
+
+If the user says, I want to search for repositories with a certain property:
+
+Every MSR Research Paper dose the following:
+
+Narrows down the dataset to a specific list of repositories that they want to work with.
+Performs a static analysis task (What are they? Define them? Do an analysis of MSR Papers and identify them?)
+ Generate ASTs, control flow graphs and data flow graphs. Perform queries on them.
+ Moreover, 
+

@@ -1,0 +1,9 @@
+In this paper, the author summarizes the different questions that a developer needs answers to as part of doing his job. These questions are those whose answers are not readily available and answering them takes up a significant time of the developer.They identified twenty one information types that the developers usually seek and also identify the context in which they occur. 
+
+I believe that the main contribution of the paper is identifying pieces of information that is very hard for developers to obtain. These pieces of information could form as a basis of tools being developed in academia to improve the lives of developers.
+
+This work takes SE research forward mainly because when it comes to saving programmer's time it has identified the most time consuming questions that a developers faces everyday. With this knowledge in mind, any tool/technique being developed for a developer will be done keeping all these aspects in mind. The effectiveness of answering these questions also acts as a useful evaluation for any subsequent research that aims to make lives of programmers better/
+
+They validated their claims by observing developers during their normal work. The observed each developer for about 90 minutes and looked at what information needs were required by the developer and the process undertaken to get them. By observing developers, in their normal environment they wereable to create an easy environment for the developer. 
+
+The information gaps faced by a software developer are te single-most time consuming aspect of a software engineer's job. Knowing where these gaps come from, could help managers understand the problems faced by their software developers and take proactive action to address this gap could go a long way in improving the productivity of the developers at that company

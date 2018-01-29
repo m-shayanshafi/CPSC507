@@ -1,0 +1,11 @@
+The primary contributions of the paper is to identify the different uses of dashboards and feeds when carrying out collaborative work in the industry. It discusses the impact that these tools have had on the workflow by surveying various people on different software teams. Moreover, the survey also records the shortcomings of these tools and makes suggestions based on the input received from the surveyed participants.
+
+According to me, the paper highlights the usefulness of dashboards and project feeds when working in a software team.It advocates for increased use of these tools when building software n teams.
+
+Moreover, I believe that the validity of the conclusions drawn from the results of the survey is questionable because only one tool was used to see the effects of dashboards/feeds in an industrial setting. There might be other tools with their own strengths and weaknesses that might alter the results in some other way. Furthermore, the usefulness of the tool was not quantified in any way and just uses developer's reported answers to each question to gauge its useflness. If the time savings that this tool offers, a more convincing argument to further the case of dashboards would be to quantify how much time was being saved currently compared to when the dashboard was not being used.
+
+The work was validated by surveying different teams comprising of people with different roles.The results of the survey indicated that dashboards and feeds are viewed favorable by most devlopers and project anagers etc. These results encourage the use of such business intelligence like tools to be used in a software engineering team. Managers should therefore extensively encourage the adoption of these products in the companies they work for because it improves developer productivity
+
+In order to extend this research, tools should be developed keeping the shortcomings presented in the paper and try to give a one-stop solution to each developer's needs. I believe that version control integrated together with dashboards and feeds like in Git addresses all developer's concerns in the paper.
+
+
